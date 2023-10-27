@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FFE0D0;
+}
+.background-container {
+    background-image: url('');
+    background-size: cover; /* Adjust the size as needed */
+}
+.navbar {
+    background-color: #FFC0CB;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #333;
+    text-align: center;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #FFB6C1;
+    color: #333;
+}
+
+.header {
+    padding: 20px;
+    text-align: center;
+    background: url('https://source.unsplash.com/user/erondu/1600x900') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
+
+.section {
+    padding: 20px;
+    text-align: center;
+    background-color: #FFE0D0;
+}
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    background-color: #FFC0CB;
+    color: white;
+}
